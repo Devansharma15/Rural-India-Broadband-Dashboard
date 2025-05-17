@@ -25,13 +25,9 @@ rural-broadband-analysis/
 ├── README.md
 ├── requirements.txt
 ├── utils/
-│   ├── data_generator.py
-│   └── helper.py
-├── assets/
-│   ├── screenshots/
-│   └── geojson/
-├── docs/
-│   └── report.pdf
+  ├── data_generator.py
+  └── helper.py
+
 ```
 🖼️ Screenshots : 
 
