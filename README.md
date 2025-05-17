@@ -18,17 +18,6 @@ This dashboard provides comprehensive insights into broadband connectivity trend
 4.Demographics	NSSO
 5.Visuals	Plotly, Streamlit
 
-🖼️ Screenshots 
-
-1.broadband_map.png — Choropleth map by state
-
-
-2.growth_chart.png — Time-series growth
-
-3.metrics_overview.png — Key statistics tiles
-
-4.dashboard_banner.png — Full interface view
-
 💻 Run Locally
 
 git clone https://github.com/yourusername/rural-broadband-analysis.git
